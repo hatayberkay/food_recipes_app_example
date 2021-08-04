@@ -1,4 +1,4 @@
-It is  food recipes app example for showing how to using local cache and Rest Api.
+It is  food recipes app example for showing how to using LOCAL CACHE and REST APİ.
 
 Topic: Showing recipes. There are 3 layout as my Firebase Project. This project only created by Rest Api and Local Cache
 
